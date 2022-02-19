@@ -15,7 +15,7 @@ namespace pruebaConexión
             try
             {
                 OracleConnection objConexion = new OracleConnection(Conn.ConexionOracle(2));
-                string UsuarioId = "U1";
+                string UsuarioId = "U4";
                 objConexion.Open(); //abriendo conexión Oracle
                 OracleCommand objComando = new OracleCommand();
                 objComando.Connection = objConexion;
