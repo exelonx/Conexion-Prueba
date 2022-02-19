@@ -1,0 +1,9 @@
+C:\Users\Kevin\source\repos\pruebaConexión\pruebaConexión\bin\Debug\pruebaConexión.exe.config
+C:\Users\Kevin\source\repos\pruebaConexión\pruebaConexión\bin\Debug\pruebaConexión.exe
+C:\Users\Kevin\source\repos\pruebaConexión\pruebaConexión\bin\Debug\pruebaConexión.pdb
+C:\Users\Kevin\source\repos\pruebaConexión\pruebaConexión\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Kevin\source\repos\pruebaConexión\pruebaConexión\obj\Debug\pruebaConexión.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\pruebaConexión\pruebaConexión\obj\Debug\pruebaConexión.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\pruebaConexión\pruebaConexión\obj\Debug\pruebaConexión.csproj.CopyComplete
+C:\Users\Kevin\source\repos\pruebaConexión\pruebaConexión\obj\Debug\pruebaConexión.exe
+C:\Users\Kevin\source\repos\pruebaConexión\pruebaConexión\obj\Debug\pruebaConexión.pdb
